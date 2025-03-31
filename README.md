@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on scollarship portal
+- 🔭 I’m currently working on AI based CLI tool
 - 🌱 I’m currently learning web deployment
 - 👯 I’m looking to collaborate on various projects
 - 🤔 I’m looking for help with currently nothing(will update later)
